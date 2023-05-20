@@ -2,4 +2,4 @@
 
 > Системное прикладное программное обеспечение в Университете IТМО<br>
 
-<img alt="Let's all love Lain!" src="https://github.com/maxbarsukov/itmo/blob/master/.docs/lain4.gif" height="150">
+<img alt="Урааа!" src="https://github.com/anvrich/ITMOLabs/tree/82fae56408a301d0b5a6337a9a486baa1cc26fe4/.GIF" height="150">
