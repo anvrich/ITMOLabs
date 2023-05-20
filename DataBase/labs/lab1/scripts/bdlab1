@@ -1,4 +1,3 @@
-
 create table Monolith (
 id serial primary key,
 name varchar(256) not null,
@@ -13,7 +12,7 @@ description_energies text not null
 
 CREATE TABLE Material (
     id SERIAL PRIMARY KEY,
-    material varchar(256) NOT NULL,
+    name varchar(256) NOT NULL,
     critical_temperature FLOAT ,
     type text,
     discovered_by TEXT
