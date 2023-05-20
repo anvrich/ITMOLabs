@@ -2,7 +2,7 @@
 
 > Системное прикладное программное обеспечение в Университете IТМО<br>
 
-<img alt="#JAVA" src="https://github.com/anvrich/ITMOLabs/blob/a12010977261da9f253253c1ab02e400139a4da6/.GIF/nachalo-karery-java-razrabotchika.gif" height="180">
+<img alt="#JAVA" src="https://github.com/anvrich/ITMOLabs/blob/ad002b59ecc63235ade37eb4a89d1465e4392dae/.GIF/giphy.gif" height="180">
 
 ## Полезные ссылки
 
