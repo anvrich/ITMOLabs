@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="labo3prog">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/labo3prog/out/artifacts/labo3prog_jar/labo3prog.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
