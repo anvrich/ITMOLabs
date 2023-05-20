@@ -1,0 +1,178 @@
+<mxfile host="app.diagrams.net" modified="2023-05-07T05:57:45.241Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="PFNREid1ibTen4wO2jnn" version="21.2.9" type="device">
+  <diagram name="Страница 1" id="ii9uXDota7NZWmXqzaZ8">
+    <mxGraphModel dx="2637" dy="2356" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NPgVGvEors3NzeWJmZ2Q-1" value="Монолит" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
+          <mxGeometry x="-120" y="10" width="210" height="266" as="geometry" />
+        </mxCell>
+        <mxCell id="NPgVGvEors3NzeWJmZ2Q-2" value="название" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=20;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;align=center;" parent="NPgVGvEors3NzeWJmZ2Q-1" vertex="1">
+          <mxGeometry y="26" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qZmtHwDfyv3w-QU0lX_6-1" value="енергия" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=20;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;align=center;" parent="NPgVGvEors3NzeWJmZ2Q-1" vertex="1">
+          <mxGeometry y="56" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NPgVGvEors3NzeWJmZ2Q-3" value="вес" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=20;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;align=center;" parent="NPgVGvEors3NzeWJmZ2Q-1" vertex="1">
+          <mxGeometry y="86" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NPgVGvEors3NzeWJmZ2Q-4" value="местоположение " style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=20;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;align=center;" parent="NPgVGvEors3NzeWJmZ2Q-1" vertex="1">
+          <mxGeometry y="116" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NPgVGvEors3NzeWJmZ2Q-5" value="длина " style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=20;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;align=center;" parent="NPgVGvEors3NzeWJmZ2Q-1" vertex="1">
+          <mxGeometry y="146" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NPgVGvEors3NzeWJmZ2Q-6" value="высота " style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=20;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;align=center;" parent="NPgVGvEors3NzeWJmZ2Q-1" vertex="1">
+          <mxGeometry y="176" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NPgVGvEors3NzeWJmZ2Q-7" value="источник энергии" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=20;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;align=center;" parent="NPgVGvEors3NzeWJmZ2Q-1" vertex="1">
+          <mxGeometry y="206" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NPgVGvEors3NzeWJmZ2Q-8" value="дата обнаружение" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=20;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;align=center;" parent="NPgVGvEors3NzeWJmZ2Q-1" vertex="1">
+          <mxGeometry y="236" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NPgVGvEors3NzeWJmZ2Q-10" value="Ток" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
+          <mxGeometry x="300" y="105" width="410" height="146" as="geometry" />
+        </mxCell>
+        <mxCell id="NPgVGvEors3NzeWJmZ2Q-11" value="интенсивность " style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=20;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;" parent="NPgVGvEors3NzeWJmZ2Q-10" vertex="1">
+          <mxGeometry y="26" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NPgVGvEors3NzeWJmZ2Q-12" value="направление " style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=20;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;" parent="NPgVGvEors3NzeWJmZ2Q-10" vertex="1">
+          <mxGeometry y="56" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NPgVGvEors3NzeWJmZ2Q-13" value=" материала сверхпроводника" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=20;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;" parent="NPgVGvEors3NzeWJmZ2Q-10" vertex="1">
+          <mxGeometry y="86" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NPgVGvEors3NzeWJmZ2Q-14" value="монолита" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=20;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;" parent="NPgVGvEors3NzeWJmZ2Q-10" vertex="1">
+          <mxGeometry y="116" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NPgVGvEors3NzeWJmZ2Q-15" value="Магнитное поле" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
+          <mxGeometry x="790" y="343" width="210" height="176" as="geometry" />
+        </mxCell>
+        <mxCell id="NPgVGvEors3NzeWJmZ2Q-16" value="Интенсивность " style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=20;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;align=center;" parent="NPgVGvEors3NzeWJmZ2Q-15" vertex="1">
+          <mxGeometry y="26" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NPgVGvEors3NzeWJmZ2Q-17" value="дата создание" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=20;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;align=center;" parent="NPgVGvEors3NzeWJmZ2Q-15" vertex="1">
+          <mxGeometry y="56" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NPgVGvEors3NzeWJmZ2Q-18" value="монолита" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=20;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;align=center;" parent="NPgVGvEors3NzeWJmZ2Q-15" vertex="1">
+          <mxGeometry y="86" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NPgVGvEors3NzeWJmZ2Q-19" value="направление " style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=20;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;align=center;" parent="NPgVGvEors3NzeWJmZ2Q-15" vertex="1">
+          <mxGeometry y="116" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NPgVGvEors3NzeWJmZ2Q-21" value="ток" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=20;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;align=center;" parent="NPgVGvEors3NzeWJmZ2Q-15" vertex="1">
+          <mxGeometry y="146" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NPgVGvEors3NzeWJmZ2Q-23" value="иследование монолитов" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
+          <mxGeometry x="270" y="360" width="210" height="176" as="geometry" />
+        </mxCell>
+        <mxCell id="NPgVGvEors3NzeWJmZ2Q-24" value="имя" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=20;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;align=center;" parent="NPgVGvEors3NzeWJmZ2Q-23" vertex="1">
+          <mxGeometry y="26" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NPgVGvEors3NzeWJmZ2Q-25" value="пол" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=20;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;align=center;" parent="NPgVGvEors3NzeWJmZ2Q-23" vertex="1">
+          <mxGeometry y="56" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NPgVGvEors3NzeWJmZ2Q-26" value="опыт работы" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=20;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;align=center;" parent="NPgVGvEors3NzeWJmZ2Q-23" vertex="1">
+          <mxGeometry y="86" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NPgVGvEors3NzeWJmZ2Q-27" value="э. почта" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=20;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;align=center;" parent="NPgVGvEors3NzeWJmZ2Q-23" vertex="1">
+          <mxGeometry y="116" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NPgVGvEors3NzeWJmZ2Q-29" value="&lt;div&gt;монолит&lt;/div&gt;&lt;div&gt;&lt;br&gt; &lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=20;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;align=center;" parent="NPgVGvEors3NzeWJmZ2Q-23" vertex="1">
+          <mxGeometry y="146" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NPgVGvEors3NzeWJmZ2Q-41" value="материал, электрическое сопротивление" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
+          <mxGeometry x="210" y="-220" width="540" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="NPgVGvEors3NzeWJmZ2Q-42" value="материал" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=20;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;align=center;" parent="NPgVGvEors3NzeWJmZ2Q-41" vertex="1">
+          <mxGeometry y="30" width="540" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qZmtHwDfyv3w-QU0lX_6-18" value="критические температура" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=20;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;align=center;" parent="NPgVGvEors3NzeWJmZ2Q-41" vertex="1">
+          <mxGeometry y="60" width="540" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qZmtHwDfyv3w-QU0lX_6-19" value="тип" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=20;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;align=center;" parent="NPgVGvEors3NzeWJmZ2Q-41" vertex="1">
+          <mxGeometry y="100" width="540" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qZmtHwDfyv3w-QU0lX_6-20" value="ученные" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=20;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;align=center;" parent="NPgVGvEors3NzeWJmZ2Q-41" vertex="1">
+          <mxGeometry y="130" width="540" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NPgVGvEors3NzeWJmZ2Q-61" value="" style="fontSize=12;html=1;endArrow=ERzeroToMany;startArrow=ERmandOne;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;entryX=-0.002;entryY=0.733;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.99;exitY=-0.167;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="NPgVGvEors3NzeWJmZ2Q-6" target="NPgVGvEors3NzeWJmZ2Q-12" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="130" y="380" as="sourcePoint" />
+            <mxPoint x="230" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NPgVGvEors3NzeWJmZ2Q-66" value="" style="fontSize=12;html=1;endArrow=ERzeroToMany;startArrow=ERmandOne;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=0.553;exitY=1.04;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="qZmtHwDfyv3w-QU0lX_6-20" target="NPgVGvEors3NzeWJmZ2Q-10" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="500" y="-10" as="sourcePoint" />
+            <mxPoint x="930" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NPgVGvEors3NzeWJmZ2Q-84" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;" parent="1" vertex="1">
+          <mxGeometry x="90" y="143" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NPgVGvEors3NzeWJmZ2Q-85" value="M" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;" parent="1" vertex="1">
+          <mxGeometry x="210" y="143" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NPgVGvEors3NzeWJmZ2Q-90" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;" parent="1" vertex="1">
+          <mxGeometry x="430" y="-30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NPgVGvEors3NzeWJmZ2Q-91" value="M" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;" parent="1" vertex="1">
+          <mxGeometry x="450" y="60" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mkR1AAEKaHOxOpCG894C-1" value="генерирование монолитов сигнал" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-570" y="101" width="270" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="mkR1AAEKaHOxOpCG894C-2" value="описание " style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=20;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;align=center;" vertex="1" parent="mkR1AAEKaHOxOpCG894C-1">
+          <mxGeometry y="30" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mkR1AAEKaHOxOpCG894C-3" value="силу " style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=20;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;align=center;" vertex="1" parent="mkR1AAEKaHOxOpCG894C-1">
+          <mxGeometry y="60" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mkR1AAEKaHOxOpCG894C-4" value="источник" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=20;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;align=center;" vertex="1" parent="mkR1AAEKaHOxOpCG894C-1">
+          <mxGeometry y="90" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mkR1AAEKaHOxOpCG894C-5" value="монолит" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=20;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;align=center;" vertex="1" parent="mkR1AAEKaHOxOpCG894C-1">
+          <mxGeometry y="120" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mkR1AAEKaHOxOpCG894C-6" value="" style="fontSize=12;html=1;endArrow=ERzeroToMany;startArrow=ERmandOne;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;entryX=1.014;entryY=0.733;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.029;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="NPgVGvEors3NzeWJmZ2Q-6" target="mkR1AAEKaHOxOpCG894C-3">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="-290" y="421" as="sourcePoint" />
+            <mxPoint x="-210" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mkR1AAEKaHOxOpCG894C-7" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="143" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mkR1AAEKaHOxOpCG894C-8" value="M" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="143" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mkR1AAEKaHOxOpCG894C-11" value="M" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="210" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mkR1AAEKaHOxOpCG894C-12" value="M" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="90" y="221" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mkR1AAEKaHOxOpCG894C-13" value="M" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="740" y="180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mkR1AAEKaHOxOpCG894C-14" value="M" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="690" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mkR1AAEKaHOxOpCG894C-15" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;endFill=1;startArrow=ERzeroToMany;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="NPgVGvEors3NzeWJmZ2Q-26" target="NPgVGvEors3NzeWJmZ2Q-6">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="10" y="481" as="sourcePoint" />
+            <mxPoint x="110" y="381" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mkR1AAEKaHOxOpCG894C-16" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;endFill=1;startArrow=ERzeroToMany;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=0.057;exitY=0.067;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="NPgVGvEors3NzeWJmZ2Q-17" target="NPgVGvEors3NzeWJmZ2Q-12">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="1000" y="400" as="sourcePoint" />
+            <mxPoint x="820" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
