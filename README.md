@@ -8,5 +8,5 @@
 
 | Ссылка | Описание |
 | --- | --- |
-| https://github.com/EgorMIt/ITMO <br> | Много готовых лаб и ДЗ |
+| https://github.com/EgorMIt/ITMO <br>  https://github.com/RomanVassilchenko/ITMOProjects <br> | Много готовых лаб и ДЗ |
 | https://rosroble.github.io/ | Полезная инфа по лабораторным |
