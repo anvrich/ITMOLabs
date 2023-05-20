@@ -1,6 +1,7 @@
+
 create table Monolith (
 id serial primary key,
-name text not null,
+name varchar(256) not null,
 weight float ,
 location text ,
 length float ,
@@ -12,7 +13,7 @@ description_energies text not null
 
 CREATE TABLE Material (
     id SERIAL PRIMARY KEY,
-    material TEXT NOT NULL,
+    material varchar(256) NOT NULL,
     critical_temperature FLOAT ,
     type text,
     discovered_by TEXT
@@ -35,8 +36,8 @@ CREATE TABLE Magnetic_Fields (
 
 create table specialist_isledovaniya(
 id  serial primary key,
-name text not null,
-gender text,
+name varchar(256) not null,
+gender varchar(10),
 experience_years integer not null,
 email text unique
 );
@@ -61,5 +62,4 @@ strength FLOAT NOT NULL,
 source TEXT NOT NULL,
 monolith_id INTEGER NOT NULL REFERENCES Monolith(id)
 );
-
 
