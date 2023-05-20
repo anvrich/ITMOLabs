@@ -9,4 +9,5 @@
 | Ссылка | Описание |
 | --- | --- |
 | https://t.me/ITMOhomework | Канал с примерами готовых лабораторных работ |
+| https://github.com/EgorMIt/ITMO <br> | Много готовых лаб и ДЗ |
 | https://rosroble.github.io/ | Полезная инфа по лабораторным |
