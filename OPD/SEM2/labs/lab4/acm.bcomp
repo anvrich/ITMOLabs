@@ -22,7 +22,7 @@ SRART:
     POP
     SUB result
     ST result
-    LD Y 
+    LD y
     PUSH 
     CALL $func 
     POP
