@@ -1,0 +1,57 @@
+R = F(Z+1) - 0;
+R =  F(X) - (F(Z+1));
+R = F(Y+1) + (F(X) - F(Z+1));
+R = F(Y) +1 + F(X) - F(Z) +1 ;
+
+R = F(Y) + F(X) - F(Z) +2;
+
+ORG 0x2B3
+SRART:
+    CLA
+    ST result
+    LD z
+    INC
+    PUSH 
+    CALL $func
+    POP
+    SUB result
+    ST result
+    LD x
+    PUSH
+    CALL $func
+    POP
+    SUB result
+    ST result
+    LD Y 
+    PUSH 
+    CALL $func 
+    POP
+    INC 
+    ADD result
+    ST result
+    HLT 
+    z: WORD 0x1
+    y: WORD 0x2
+    x: WORD 0x3
+    result: WORD 0xF7CF ; = 0
+
+ORG 0x6AD
+$func:
+    LD &1 
+    BMI L 
+    SUB A 
+    BMI L
+    BEQ L
+    ADD A
+    ASL
+    ASL
+    SUB J
+    SUB B
+    J : JUMP S
+    L : LD A
+    S : ST &1
+    RET 
+    A : 0xFCE
+    B : 0x0059
+
+    
