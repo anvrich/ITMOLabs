@@ -1,5 +1,5 @@
 ORG 0x2B3
-SRART:
+START:
     CLA
     ST result
     LD z
@@ -29,54 +29,21 @@ SRART:
     result: WORD 0xF7CF ; = 0
 
 ORG 0x6AD
-$func:
+func:
     LD &1 
-    BMI L 
+    BPL L 
     SUB A 
     BMI L
     BEQ L
     ADD A
     ASL
     ASL
-    SUB J
+    SUB &1
     SUB B
     J : JUMP S
     L : LD A
     S : ST &1
     RET 
-    A : 0xFCE
-    B : 0x0059
-    
-    
-    
-    
-    
-    
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
-    
+    A : WORD 0xFCE
+    B : WORD 0x0059
+ 
