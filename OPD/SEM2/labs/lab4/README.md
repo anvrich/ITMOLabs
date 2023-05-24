@@ -8,5 +8,5 @@
 
 ![Задание](./docs/8532.png)
 
-- [Отчёт](./docs/Lab4.pdf)
+- [Отчёт](./docs/report.pdf)
 
