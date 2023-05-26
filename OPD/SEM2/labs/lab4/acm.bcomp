@@ -44,6 +44,6 @@ func:
     L : LD A
     S : ST &1
     RET 
-    A : WORD 0xFCE
+    A : WORD 0xF7CE
     B : WORD 0x0059
  
