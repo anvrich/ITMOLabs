@@ -23,9 +23,9 @@ START:
     ADD result
     ST result
     HLT 
-    z: WORD 0x1
-    y: WORD 0x2
-    x: WORD 0x3
+    z: WORD 0x0
+    y: WORD 0x0
+    x: WORD 0x0
     result: WORD 0xF7CF ; = 0
 
 ORG 0x6AD
