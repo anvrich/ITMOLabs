@@ -13,6 +13,6 @@
 Задания для лаборатнорных работ: https://se.ifmo.ru/courses/csbasics#labs
 
 
-#### [Лекции](./463f1d87fdbb6a6be23169a59d0e4f1b6a197edf/OPD/lecture)
+#### [Лекции](https://github.com/anvrich/ITMOLabs/tree/463f1d87fdbb6a6be23169a59d0e4f1b6a197edf/OPD/lecture)
 - [Таблица кодов БЭВМ](./)
 
