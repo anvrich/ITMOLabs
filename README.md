@@ -11,4 +11,3 @@
 | https://github.com/EgorMIt/ITMO <br>  https://github.com/RomanVassilchenko/ITMOProjects <br> | Много готовых лаб и ДЗ |
 | https://rosroble.github.io/ | Полезная инфа по лабораторным |
 | https://picloud.pw/about/ | Некоторые ДЗ и лабораторные |
-https://se.ifmo.ru/~s263975/program-tracing/
