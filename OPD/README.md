@@ -19,10 +19,10 @@
 
 **Лабораторные**
 
-- [Лабораторная работа №1 (19/20)](https://github.com/anvrich/ITMOLabs/tree/41a75d7af259216314883ad18ea786a9fd3844a3/OPD/SEM1/lab1)
-- [Лабораторная работа №2 (20/20)](https://github.com/anvrich/ITMOLabs/tree/41a75d7af259216314883ad18ea786a9fd3844a3/OPD/SEM1/lab2)
-- [Лабораторная работа №3 (9.5/10)](https://github.com/anvrich/ITMOLabs/tree/41a75d7af259216314883ad18ea786a9fd3844a3/OPD/SEM2/labs/lab3)
-- [Лабораторная работа №4 (10/10)](https://github.com/anvrich/ITMOLabs/tree/41a75d7af259216314883ad18ea786a9fd3844a3/OPD/SEM2/labs/lab4)
+- [Лабораторная работа №1](https://github.com/anvrich/ITMOLabs/tree/41a75d7af259216314883ad18ea786a9fd3844a3/OPD/SEM1/lab1)
+- [Лабораторная работа №2](https://github.com/anvrich/ITMOLabs/tree/41a75d7af259216314883ad18ea786a9fd3844a3/OPD/SEM1/lab2)
+- [Лабораторная работа №3](https://github.com/anvrich/ITMOLabs/tree/41a75d7af259216314883ad18ea786a9fd3844a3/OPD/SEM2/labs/lab3)
+- [Лабораторная работа №4](https://github.com/anvrich/ITMOLabs/tree/41a75d7af259216314883ad18ea786a9fd3844a3/OPD/SEM2/labs/lab4)
 - [Лабораторная работа №5](https://github.com/anvrich/ITMOLabs/tree/41a75d7af259216314883ad18ea786a9fd3844a3/OPD/SEM2/labs/lab5)
 
 ## Полезные ссылки
